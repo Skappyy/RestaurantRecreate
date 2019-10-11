@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+footer {
+    background-color: dimgrey;
+    font-size:12px;
+    font-family: "Inknut Antiqua", serif;
+}
+article {
+    color: white;
+}
