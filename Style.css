@@ -9,3 +9,19 @@ footer {
 article {
     color: white;
 }
+img {
+    width: 13%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav {
+    text-align: center;
+}
+a {
+    text-align: center;
+}
+p {
+    color: white;
+}
