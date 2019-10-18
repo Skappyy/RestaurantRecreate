@@ -8,6 +8,12 @@ footer {
 }
 article {
     color: white;
+    float: left;
+    margin-right: auto;
+}
+aside {
+    float: left;
+    margin-right: auto;
 }
 img {
     width: 13%;
@@ -15,13 +21,29 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
 }
 nav {
     text-align: center;
 }
 a {
     text-align: center;
+    color: white;
+    font-family: "Berlin Sans FB";
+    text-decoration: none;
 }
 p {
     color: white;
+}
+header {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+}
+#wrapper {
+    width: 500px;
+    margin-right: auto;
+}
+#wrapper2 {
+    width: 500px;
+    margin-left: auto;
 }
