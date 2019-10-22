@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    
 }
 footer {
     background-color: dimgrey;
@@ -10,10 +11,13 @@ article {
     color: white;
     float: left;
     margin-right: auto;
+    text-align: center;
 }
 aside {
     float: left;
     margin-right: auto;
+    color: white;
+    text-align: center;
 }
 img {
     width: 13%;
@@ -29,7 +33,7 @@ nav {
 a {
     text-align: center;
     color: white;
-    font-family: "Berlin Sans FB";
+    font-family: "Berlin Sans FB", serif;
     text-decoration: none;
 }
 p {
@@ -38,12 +42,17 @@ p {
 header {
     color: white;
     font-family: "Inknut Antiqua", serif;
+
 }
 #wrapper {
-    width: 500px;
+    width: 250px;
+    height: 300px;
     margin-right: auto;
 }
 #wrapper2 {
-    width: 500px;
+    width: 250px;
     margin-left: auto;
+}
+h1 {
+    color: white;
 }
