@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    
+
 }
 footer {
     background-color: dimgrey;
@@ -12,6 +12,7 @@ article {
     float: left;
     margin-right: auto;
     text-align: center;
+    padding-left: 175px;
 }
 aside {
     float: left;
@@ -55,4 +56,14 @@ header {
 }
 h1 {
     color: white;
+    font-size: 35px;
+}
+#wrapper4 {
+    width: 80%;
+    height: 100%;
+    text-align: left;
+}
+.pictures {
+    width: 960px;
+    height: 330px;
 }
