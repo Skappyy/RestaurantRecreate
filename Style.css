@@ -3,9 +3,11 @@ body {
 
 }
 footer {
-    background-color: dimgrey;
+    text-align: center;
     font-size:12px;
     font-family: "Inknut Antiqua", serif;
+    color: grey;
+
 }
 article {
     color: white;
@@ -65,11 +67,12 @@ h1 {
     text-align: left;
 }
 .pictures {
-    width: 960px;
+    width: 100%;
     height: 330px;
     position: relative;
     top: 0;
-    left: 0;
+
+    right: 15px;
 }
 .rotateimg180 {
     -webkit-transform:rotate(180deg);
@@ -98,5 +101,7 @@ h1 {
     height: 250px;
 }
 .background2 {
-    background-color: #424541;
+    background-color: #1f1f1f;
+    height: 250px;
+    width: 88%;
 }
