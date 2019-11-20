@@ -114,4 +114,23 @@ footer {
     text-align: center;
     color: grey;
 }
+.textred {
+    color: red;
+}
+#wrapper5 {
+    font-size: 20px;
+    width: 50%;
+    float: left;
+    font-family: "Inknut Antiqua", serif;
+}
+.menu {
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+.icon {
+    height: 25px;
+    width: 25px;
+    float: left;
+}
 
