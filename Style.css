@@ -2,11 +2,6 @@ body {
     background-color: black;
 
 }
-footer {
-    text-align: center;
-    font-size:12px;
-    font-family: "Inknut Antiqua", serif;
-    color: grey;
 
 }
 article {
@@ -41,7 +36,7 @@ a {
     text-decoration: none;
 }
 p {
-
+color: white;
 }
 header {
     color: white;
@@ -99,9 +94,24 @@ h1 {
     color: black;
     background-color: white;
     height: 250px;
+    text-align: center;
 }
 .background2 {
     background-color: #1f1f1f;
     height: 250px;
     width: 88%;
+    font-size: 12px;
 }
+#wrapper6 {
+font-size: 12px;
+    width: 33%;
+    float: left;
+}
+.textcolor {
+    color: black;
+}
+footer {
+    text-align: center;
+    color: grey;
+}
+
