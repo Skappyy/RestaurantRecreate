@@ -36,7 +36,7 @@ a {
     text-decoration: none;
 }
 p {
-color: white;
+    color: white;
 }
 header {
     color: white;
@@ -103,7 +103,7 @@ h1 {
     font-size: 12px;
 }
 #wrapper6 {
-font-size: 12px;
+    font-size: 12px;
     width: 33%;
     float: left;
 }
@@ -125,12 +125,34 @@ footer {
 }
 .menu {
     background-color: white;
-    width: 100%;
+    width: 50%;
     color: black;
+    float: left;
+    font-size: 15px;
 }
 .icon {
     height: 25px;
     width: 25px;
     float: left;
+}
+.menu2 {
+    background-color: white;
+    width: 25%;
+    color: black;
+    float: left;
+    text-align: center;
+}
+.fname {
+    color: black;
+    font-size: 25px;
+}
+.fdec {
+    color: black;
+    font-size: 15px;
+}
+.fpri {
+    color: black;
+    font-size: 15px;
+    padding: 23.25px;
 }
 
